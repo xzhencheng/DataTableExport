@@ -1,0 +1,13 @@
+D:\徐振成SVN\Program\DataTableExport\DataTableExport\obj\x86\Debug\DataTableExport.Form1.resources
+D:\徐振成SVN\Program\DataTableExport\DataTableExport\obj\x86\Debug\DataTableExport.Properties.Resources.resources
+D:\徐振成SVN\Program\DataTableExport\DataTableExport\obj\x86\Debug\DataTableExport.csproj.GenerateResource.Cache
+D:\徐振成SVN\Program\DataTableExport\DataTableExport\bin\Debug\DataTableExport.exe
+D:\徐振成SVN\Program\DataTableExport\DataTableExport\bin\Debug\DataTableExport.pdb
+D:\徐振成SVN\Program\DataTableExport\DataTableExport\obj\x86\Debug\DataTableExport.exe
+D:\徐振成SVN\Program\DataTableExport\DataTableExport\obj\x86\Debug\DataTableExport.pdb
+D:\徐振成SVN\Program\DataTableExport\DataTableExport\bin\Debug\NPOI.dll
+D:\徐振成SVN\Program\DataTableExport\DataTableExport\bin\Debug\NPOI.OOXML.dll
+D:\徐振成SVN\Program\DataTableExport\DataTableExport\bin\Debug\NPOI.OpenXml4Net.dll
+D:\徐振成SVN\Program\DataTableExport\DataTableExport\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\徐振成SVN\Program\DataTableExport\DataTableExport\bin\Debug\NPOI.xml
+D:\徐振成SVN\Program\DataTableExport\DataTableExport\obj\x86\Debug\DataTableExport.csprojResolveAssemblyReference.cache
